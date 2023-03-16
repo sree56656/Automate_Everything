@@ -1,2 +1,5 @@
-print("Sreekanth!!")
-print("Chitti")
+def printCommand():
+    print("Sreekanth!!")
+
+
+printCommand()
